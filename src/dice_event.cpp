@@ -23,6 +23,7 @@
 #include "dice_rarc_module.h"
 #include "dice_msg_queue.h"
 #include "dice_setcoc_module.h"
+#include "dice_sg_module.h"
 
 CQ_MAIN {
     cq::config.convert_unicode_emoji = false;
@@ -62,10 +63,12 @@ CQ_MAIN {
         static dice::set_module SetModule;
         // 今日人品检定
         static dice::jrrp_module JrrpModule;
-        // COC任务生成
+        // COC人物生成
         static dice::coc_module CocModule;
         // DND人物生成
         static dice::dnd_module DndModule;
+        // COC人物生成
+        static dice::sg_module SgModule;
         // 判定掷骰
         static dice::rarc_module RarcModule;
         // 普通掷骰

@@ -1,1 +1,1 @@
-tech.kokona.dice
+xyz.maddestroyer.dice

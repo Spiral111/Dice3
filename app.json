@@ -1,10 +1,10 @@
 {
     "ret": 1,
     "apiver": 9,
-    "name": "Dice!",
-    "version": "3.0.0alpha w20191203",
+    "name": "Dice! for 66TRPG",
+    "version": "beta",
     "version_id": 1001,
-    "author": "w4123溯洄",
+    "author": "jigsaw",
     "description": "跑团用掷骰机器人",
     "event": [
         {
@@ -131,7 +131,7 @@
         // 124, // setGroupAnonymousBan
         // 125, // setGroupAnonymous
         // 126, // setGroupCard
-        // 127, // setGroupLeave
+        127, // setGroupLeave
         // 128, // setGroupSpecialTitle
         130, // getGroupMemberInfoV2 / getGroupMemberInfo
         131, // getStrangerInfo

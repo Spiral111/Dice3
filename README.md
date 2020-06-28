@@ -1,3 +1,9 @@
+# Dice for 66TRPG
+66TRPG是一个跑团论坛，目前正在发展中。
+网址为https://66trpg.com
+
+本项目魔改自Dice V3，以下是原作者溯洄的说明文档
+
 # Dice V3
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ft7x1jvdam3xb8jc?svg=true)](https://ci.appveyor.com/project/w4123/dice3)
