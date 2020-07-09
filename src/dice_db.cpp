@@ -1,3 +1,6 @@
+/*数据库核心
+留待改造
+*/
 #include "dice_db.h"
 #include <memory>
 #include "SQLiteCpp/SQLiteCpp.h"

@@ -1,6 +1,7 @@
 /*
  * dice_event.cpp
  * 主事件处理
+ * 这个文件是溯洄为数不多的注释
  */
 
 #include "cqsdk/cqsdk.h"
@@ -67,7 +68,7 @@ CQ_MAIN {
         static dice::coc_module CocModule;
         // DND人物生成
         static dice::dnd_module DndModule;
-        // COC人物生成
+        // SG人物生成
         static dice::sg_module SgModule;
         // 判定掷骰
         static dice::rarc_module RarcModule;
