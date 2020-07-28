@@ -1,3 +1,8 @@
+/*
+牌堆
+注释：陈末
+*/
+
 #include "dice_draw_module.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_calculator.h"

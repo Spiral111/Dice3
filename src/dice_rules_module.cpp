@@ -1,3 +1,8 @@
+/*
+ *规则速查
+ *注释：陈末
+ */
+
 #include "cpprest/http_client.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_calculator.h"

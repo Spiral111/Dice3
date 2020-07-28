@@ -1,3 +1,8 @@
+/*
+退群
+注释：陈末
+*/
+
 #include "dice_dismiss_module.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_msg.h"
@@ -25,6 +30,8 @@ namespace dice {
         if (std::regex_match(ws, m, re)) {
             std::wstring target = m[1];
             std::wstring self_id = std::to_wstring(cq::api::get_login_user_id());
+
+            //如果后缀为空/qq/qq后四位/昵称，则退群
             if (target.empty() || target == self_id || target == self_id.substr(self_id.length() - 4)
                 || target == cq::utils::s2ws(cq::api::get_login_nickname())) {
 

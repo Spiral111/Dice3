@@ -1,3 +1,8 @@
+/*
+ *姓名抽取
+ *注释：陈末
+ */
+
 #include "cqsdk/cqsdk.h"
 #include "dice_calculator.h"
 #include "dice_exception.h"

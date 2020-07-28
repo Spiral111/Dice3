@@ -1,3 +1,8 @@
+/*
+计算核心
+注释：溯洄
+*/
+
 #include "dice_calculator.h"
 #include <cwctype>
 #include <exception>

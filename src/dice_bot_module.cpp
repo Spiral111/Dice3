@@ -1,4 +1,7 @@
-//机器人控制
+/*
+机器人控制
+注释：陈末
+*/
 
 #include "dice_bot_module.h"
 #include "SQLiteCpp/SQLiteCpp.h"

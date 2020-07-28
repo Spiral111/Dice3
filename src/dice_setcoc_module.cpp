@@ -1,3 +1,8 @@
+/*
+ *COC房规
+ *注释：陈末
+ */
+
 #include "dice_setcoc_module.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_utils.h"

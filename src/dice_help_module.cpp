@@ -1,3 +1,8 @@
+/*
+帮助
+注释：陈末
+*/
+
 #include "dice_help_module.h"
 #include <SQLiteCpp/Statement.h>
 #include "cqsdk/cqsdk.h"

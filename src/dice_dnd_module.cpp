@@ -1,3 +1,8 @@
+/*
+dnd人物投掷
+注释：陈末
+*/
+
 #include "dice_dnd_module.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_calculator.h"

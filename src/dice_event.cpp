@@ -1,7 +1,6 @@
 /*
- * dice_event.cpp
- * 主事件处理
- * 这个文件是溯洄为数不多的注释
+ 主事件处理
+ 注释：溯洄
  */
 
 #include "cqsdk/cqsdk.h"

@@ -1,3 +1,8 @@
+/*
+ *人物卡属性
+ *注释：陈末
+ */
+
 #include "dice_st_module.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_calculator.h"

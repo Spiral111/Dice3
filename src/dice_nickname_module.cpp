@@ -1,3 +1,8 @@
+/*
+ *骰娘称呼
+ *注释：陈末
+ */
+
 #include "dice_nickname_module.h"
 #include <cctype>
 #include "cqsdk/cqsdk.h"

@@ -1,3 +1,7 @@
+/*
+ *内置消息、牌堆、帮助
+ *注释：陈末
+ */
 #include "dice_msg.h"
 #include <map>
 #include <string>

@@ -1,3 +1,8 @@
+/*
+ *轮回游戏人物投掷
+ *注释：陈末
+ */
+
 #include "dice_sg_module.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_calculator.h"

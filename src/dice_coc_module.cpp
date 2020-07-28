@@ -1,3 +1,8 @@
+/*
+coc人物投掷
+注释：陈末
+*/
+
 #include "dice_coc_module.h"
 #include "cqsdk/cqsdk.h"
 #include "dice_calculator.h"

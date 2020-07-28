@@ -1,3 +1,8 @@
+/*
+ *默认骰
+ *注释：陈末
+ */
+
 #include "dice_set_module.h"
 #include "SQLiteCpp/SQLiteCpp.h"
 #include "cqsdk/cqsdk.h"

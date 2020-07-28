@@ -1,6 +1,9 @@
-/*数据库核心
-留待改造
+/*
+数据库核心（待改造）
+值得注意的是，Dice3的master分支移除了帮助信息的数据库，这也导致了我不再合并master分支。
+注释：陈末
 */
+
 #include "dice_db.h"
 #include <memory>
 #include "SQLiteCpp/SQLiteCpp.h"

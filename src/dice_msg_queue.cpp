@@ -1,3 +1,8 @@
+/*
+ *消息队列
+ *注释：陈末
+ */
+
 #include "dice_msg_queue.h"
 #include "cqsdk/cqsdk.h"
 
